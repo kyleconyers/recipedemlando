@@ -1,0 +1,14 @@
+uuid: 8f112b05-0b1e-41e3-814c-66c7e84a7868
+name: recipedemlando
+mail: conyersky@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
